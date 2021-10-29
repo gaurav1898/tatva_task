@@ -1,0 +1,8 @@
+{
+    "App": {
+        "SECRET_CODE": "tatvasoft",
+        "PORT": "5600",
+        "TokenExpiresIn": 604800,
+        "SALT_ROUNDS": 10
+    }
+}
